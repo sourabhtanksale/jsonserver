@@ -1,22 +1,25 @@
-{ 
-"appointment": [
+{
+  "posts": [
     {
       "id": 1,
-      "description": "some comment",
+      "title": "json-server",
+      "author": "typicode"
     },
     {
-     "id": 2,
-      "description": "some comment",
+      "id": 2,
+      "title": "json-server-2",
+      "author": "typicode"
     }
   ],
-  "doctor": [
+  "comments": [
     {
       "id": 1,
-      "name": "test",
-    },
-    {
-     "id": 2,
-      "name": "test-2",
+      "body": "some comment",
+      "postId": 1
     }
-  ]
+  ],
+  "appointment": [],
+  "profile": {
+    "name": "typicode"
+  }
 }
