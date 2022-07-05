@@ -1,4 +1,5 @@
- "appointment": [
+{ 
+"appointment": [
     {
       "id": 1,
       "description": "some comment",
@@ -18,3 +19,4 @@
       "name": "test-2",
     }
   ]
+}
