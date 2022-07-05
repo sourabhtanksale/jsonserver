@@ -1,0 +1,20 @@
+ "appointment": [
+    {
+      "id": 1,
+      "description": "some comment",
+    },
+    {
+     "id": 2,
+      "description": "some comment",
+    }
+  ],
+  "doctor": [
+    {
+      "id": 1,
+      "name": "test",
+    },
+    {
+     "id": 2,
+      "name": "test-2",
+    }
+  ]
